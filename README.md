@@ -3,11 +3,11 @@ The repository for A Fox's Tale
 
 ## Working on tickets
 
-main    o---o----o---o---o----------o----o
-             \    \                /    /
-feature1      \     o---o-----o--------o
-               \                 /
-feature2        o---o------o---o
+    main    o---o----o---o---o----------o----o
+                \    \                /    /
+    feature1      \     o---o-----o--------o
+                \                 /
+    feature2        o---o------o---o
 
 Main branch:
 Represents our latest stable release. Should ONLY contain production-ready code.

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c55f6fb5a29a0be4d89a143f0cf50e67
+guid: 2056825534cda4237a7d767ce817a784
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -2129,6 +2129,7 @@ TextureImporter:
       platformPack_tilesheet@2_7: 4305476468203063731
       platformPack_tilesheet@2_16: -1767999162768613506
       platformPack_tilesheet@2_21: 6686441608253071176
+      platformPack_tilesheet@2_82: 1743322736055374446
       platformPack_tilesheet@2_43: -2355078460576815935
       platformPack_tilesheet@2_73: -6498673172229047217
       platformPack_tilesheet@2_61: 5200520109371391895
@@ -2141,7 +2142,6 @@ TextureImporter:
       platformPack_tilesheet@2_53: 945982819514775080
       platformPack_tilesheet@2_19: -8454283211730661977
       platformPack_tilesheet@2_75: 617799452488276540
-      platformPack_tilesheet@2_17: 4880162771607328002
       platformPack_tilesheet@2_55: 5716696676794196463
       platformPack_tilesheet@2_62: 7400361406944925493
       platformPack_tilesheet@2_14: -160979046253295326
@@ -2203,7 +2203,7 @@ TextureImporter:
       platformPack_tilesheet@2_52: 5144551056978992909
       platformPack_tilesheet@2_68: -580979215060925300
       platformPack_tilesheet@2_23: 1459994160441402668
-      platformPack_tilesheet@2_82: 1743322736055374446
+      platformPack_tilesheet@2_17: 4880162771607328002
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

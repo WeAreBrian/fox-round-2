@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Grapplable
   layers:
   - Default
   - TransparentFX
@@ -12,7 +13,7 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
+  - Kill
   - 
   - 
   - 
@@ -41,9 +42,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
-    uniqueID: 2530726307
-    locked: 0
   - name: UI - Behind
     uniqueID: 824075671
+    locked: 0
+  - name: Player
+    uniqueID: 2530726307
     locked: 0
